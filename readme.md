@@ -4,6 +4,8 @@
 
 This project utilizes the Google Calendar API to push events onto the user's Google Calendar account from a CSV file. The user needs to provide the CSV file containing the events data, as well as the credentials for the API obtained from Google Cloud OAuth.
 
+Refer to this for help : `https://developers.google.com/calendar/api/quickstart/python`
+
 ## Features
 
 - Push events from a CSV file to Google Calendar
