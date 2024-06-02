@@ -18,7 +18,7 @@ Before running this project, make sure you have the following:
 - Google Cloud OAuth credentials (client ID and client secret)
 
 ## Installation
-# NOTE: This Project is a work in progress so the process to get it working is a bit complex for some.
+### NOTE: This Project is a work in progress so the process to get it working is a bit complex for some.
 
 1. Clone the repository on your System
 2. Create a `venv` in Python and run `pip install -r requirements.txt`
