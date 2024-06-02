@@ -1,4 +1,4 @@
-# EXCEL TO CALANDER
+# CSV TO CALANDER
 
 ## Description
 
