@@ -32,6 +32,12 @@ def create_event(summary, location, description, start_time, end_time):
         'summary': summary,
         'location': location,
         'description': description,
+        'reminders': {
+            'useDefault': False,
+            'overrides': [
+                {'method': 'popup', 'minutes': 5},
+            ],
+        },
         'start': {
             'dateTime': start_time.isoformat(),
             'timeZone': 'Asia/Kolkata',
